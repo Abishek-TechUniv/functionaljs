@@ -9,6 +9,6 @@ function countWords(inputWords) {
   } , {})
 }
 
-//module.exports = countWords
+module.exports = countWords
 
-console.log("array with 2 cakes and 1 bake", countWords(["Cake", "Cake", "Bake"]).Cake === 2)
+//console.log("array with 2 cakes and 1 bake", countWords(["Cake", "Cake", "Bake"]).Cake === 2)
