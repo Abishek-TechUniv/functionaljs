@@ -5,7 +5,7 @@ function reduce(arr, fn, initial) {
   }(0, initial))
 }
 
-//module.exports = reduce
+module.exports = reduce
 //
 
-console.log("use reduce for summation", reduce([1,2,3], function(i,a) { return i + a } , 0) === 6)
+//console.log("use reduce for summation", reduce([1,2,3], function(i,a) { return i + a } , 0) === 6)
