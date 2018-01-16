@@ -1,3 +1,5 @@
+/*global module:true*/
+
 function reduce(arr, fn, initial) {
   return (function reducer(index, previous){
     if (arr.length <= index) return previous
