@@ -12,5 +12,7 @@ function countWords(inputWords) {
 }
 
 module.exports = countWords
-
-//console.log("array with 2 cakes and 1 bake", countWords(["Cake", "Cake", "Bake"]).Cake === 2)
+// let res = countWords()
+//console.log("empty array", res === null)
+// let result = countWords(["Cake", "Cake", "Bake"])
+//console.log("array with 2 cakes and 1 bake", result.Cake === 2 && result.Bake === 1)
