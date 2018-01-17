@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 function getShortMessages(messages) {
   return messages.filter(function(x) { 

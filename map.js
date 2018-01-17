@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 function doubleAll(numbers) {
   return numbers.map(function(x) {

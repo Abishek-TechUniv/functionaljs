@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 //let counter = 0
 //let counter2 = 1

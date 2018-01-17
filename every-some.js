@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 function checkUsersValid(goodUsers) {
   return function allUsersValid(submittedUsers) {

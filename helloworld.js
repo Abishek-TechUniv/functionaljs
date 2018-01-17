@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 function upperCaser(input) {
   return input.toUpperCase()

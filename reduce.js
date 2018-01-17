@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 function countWords(inputWords) {
   return inputWords.reduce(function (acc, val) {

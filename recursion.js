@@ -1,4 +1,4 @@
-/*global module:true*/
+/* global module:true */
 
 function reduce(arr, fn, initial) {
   return (function reducer(index, previous){
